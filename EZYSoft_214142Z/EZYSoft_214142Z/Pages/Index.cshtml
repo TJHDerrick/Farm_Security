@@ -1,0 +1,57 @@
+﻿@page
+@model IndexModel
+@using System.Text.Encodings.Web
+
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<p> 
+    User Data:
+    <br />
+    Credit Card: @Model.AppData.CreditCard
+    <br>
+    Full Name: @Model.AppData.FullName
+    <br>
+    Gender: @Model.AppData.Gender
+    <br>
+    Mobile No: @Model.AppData.MobileNo
+    <br>
+    Delivery Address: @Model.AppData.DeliveryAddress
+    <br>
+    Email: @Model.AppData.Email
+    <br>
+    About me: @Model.AppData.AboutMe
+    <br />
+    Image:
+    <br />
+    <img src="@Model.AppData.ImageURL" />
+</p>
+
+@functions {
+    public int divide(int x, int y)
+    {
+        string errormessage;
+        try
+        {
+            return x / y;
+        }
+        catch (DivideByZeroException d)
+        {
+            errormessage = d.ToString();
+            WriteLiteral("<br />Cannot Divide by Zero Exception found <br /><br />");
+            WriteLiteral("Additional Info: <br /><br />" + errormessage);
+            return 0;
+        }
+    }
+}
+<br />
+<p>Error Message:</p>
+<p>Division of 10 / 5 is @divide(10, 5)</p>
+<p>Division of 10 / 0 is @divide(12, 0)</p>
+<br />

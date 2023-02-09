@@ -1,0 +1,283 @@
+﻿@page
+@model Fresh_Farm_Market_214142Z.Pages.RegisterModel
+@{
+}
+
+@using AspNetCore.ReCaptcha
+@Html.ReCaptcha()
+
+<div class="container mt-5">
+
+	<div class="row justify-content-center align-items-center">
+
+		<div class="col-sm-12 col-md-12 col-lg-4">
+			<h1 class="mb-3">Register </h1>
+
+			<form method="post" asp-antiforgery="true">
+				@Html.AntiForgeryToken()
+
+				<div asp-validation-summary="All" class="text-danger"></div>
+
+				<div class="mb-3">
+					<label class="form-label" asp-for="RModel.FullName">Full Name</label>
+					<input type="Text" asp-for="RModel.FullName" class="form-control" />
+					<span asp-validaton-for="RModel.FullName" class="text-danger"></span>
+				</div>
+
+				<div class="mb-3">
+					<label class="form-label" asp-for="RModel.CreditCard">Credit Card</label>
+					<input type="Text" asp-for="RModel.CreditCard" class="form-control" />
+					<span asp-validaton-for="RModel.CreditCard" class="text-danger"></span>
+				</div>
+
+					<div class="row mb-3">
+                        <label class="col-sm-2 col-form-label" asp-for="RModel.Gender"></label>
+                        <div class="col-sm-10 d-flex align-items-center">
+                            <div class="form-check form-check-inline">
+                                @Html.RadioButtonFor(m => m.RModel.Gender, "M",
+                            new {
+                                @class = "form-check-input",
+                                @checked = "true"
+                                })
+                                <label class="form-check-label" >Male</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                @Html.RadioButtonFor(m => m.RModel.Gender, "F",
+                            new {@class = "form-check-input"})
+                                <label class="form-check-label">Female</label>
+                            </div>
+                            <span asp-validation-for="RModel.Gender" class="text-danger"></span>
+                        </div>
+                    </div>
+
+				<div class="mb-3">
+					<label class="form-label" asp-for="RModel.MobileNo">Mobile No</label>
+					<input type="Text" asp-for="RModel.MobileNo" class="form-control" />
+					<span asp-validaton-for="RModel.MobileNo" class="text-danger"></span>
+				</div>
+
+				<div class="mb-3">
+					<label class="form-label" asp-for="RModel.DeliveryAddress">Delivery Address</label>
+					<input type="Text" asp-for="RModel.DeliveryAddress" class="form-control" />
+					<span asp-validaton-for="RModel.DeliveryAddress" class="text-danger"></span>
+				</div>
+
+				<div class="mb-3">
+					<label class="form-label" asp-for="RModel.Email">Email Address</label>
+					<input type="Text" asp-for="RModel.Email" class="form-control" />
+					<span asp-validaton-for="RModel.Email" class="text-danger"></span>
+				</div>
+
+				<div class="mb-3">
+					<label class="form-label" asp-for="RModel.Password">Password</label>
+					<span asp-validaton-for="RModel.Password" class="text-danger"></span>
+
+					<div class="field">
+						<input id="password_val" type="text" asp-for="RModel.Password" class="form-control" onkeyup="trigger()" placeholder="Type password">
+					</div>
+					<div class="indicator">
+						<span class="weak"></span>
+						<span class="medium"></span>
+						<span class="strong"></span>
+					</div>
+					<div class="text" id="indicatorText"></div>
+					<br />
+					<div id="check1">
+						<i class="far fa-check-circle"></i>  <span> Length more than 12.</span>
+					</div>
+					<div id="check2">
+						<i class="far fa-check-circle"></i>  <span> Contains numerical character.</span>
+					</div>
+					<div id="check3">
+						<i class="far fa-check-circle"></i>   <span>Contains special character.</span>
+					</div>
+					<div id="check4">
+						<i class="far fa-check-circle"></i>  <span>Shouldn't contain spaces.</span>
+					</div>
+					<div id="check5">
+						<i class="far fa-check-circle"></i>  <span>Contains one Uppercase character</span>
+					</div>
+					<div id="check6">
+						<i class="far fa-check-circle"></i>  <span>Contains one Lowercase character</span>
+					</div>
+					<span asp-validaton-for="RModel.Password" class="text-danger" id="passworderror"></span>
+
+				</div>
+			
+
+				<div class="mb-3">
+					<label class="form-label" asp-for="RModel.ConfirmPassword">Confirm Password</label>
+					<input type="Text" asp-for="RModel.ConfirmPassword" class="form-control" />
+					<span asp-validaton-for="RModel.ConfirmPassword" class="text-danger"></span>
+				</div>
+
+
+				<div class="mb-3">
+					<input type="file" accept=".jpg" asp-for="Upload"
+						   class="form-control" onchange="showImgPreview(this)" />
+					<span asp-validation-for="Upload" class="text-danger"></span>
+
+				</div>
+				
+				<img id="imgPreview" class="rounded-circle" style="height:300px;width:300px;object-fit:cover" 
+				src="" alt="picture"/>
+
+
+
+				<div class="mb-3">
+					<label class="form-label" asp-for="RModel.AboutMe">About Me</label>
+					<input type="Text" asp-for="RModel.AboutMe" class="form-control" />
+					<span asp-validaton-for="RModel.AboutMe" class="text-danger"></span>
+				</div>
+
+
+				<div class="mb-3">
+					<button type="submit" class="btn btn-primary">Register</button>
+				</div>
+			</form>
+
+			<script>
+				function showImgPreview(input) {
+					if (input.files[0]) {
+						var uploadimg = new FileReader();
+						uploadimg.onload = function (displayimg) {
+							$("#imgPreview").attr('src', displayimg.target.result);
+						}
+						uploadimg.readAsDataURL(input.files[0]);
+					}
+				}
+
+		 const indicator = document.querySelector(".indicator");
+         const input = document.getElementById("password_val")
+         const weak = document.querySelector(".weak");
+         const medium = document.querySelector(".medium");
+         const strong = document.querySelector(".strong");
+         const text = document.getElementById("indicatorText");
+         const showBtn = document.querySelector(".showBtn");
+        
+         let regExpWeak = /[a-z]/;
+         let regExpMedium = /\d+/;
+         let regExpStrong = /.[!,@@,#,$,%,^,&,*,?,_,~,-,(,)]/;
+         
+         function trigger() {
+            if (input.value == "") {
+                indicator.style.display = "none";
+                text.style.display = "none";
+                showBtn.style.display = "none";
+                document.getElementById("check1").style.color = "black"
+                document.getElementById("check2").style.color = "black"
+                document.getElementById("check3").style.color = "black"
+                document.getElementById("check4").style.color = "black"
+                document.getElementById("check5").style.color = "black"
+                document.getElementById("check6").style.color = "black"
+                return;
+            }
+
+            if (input.value.length > 12) {
+                document.getElementById("check1").style.color = "green";
+            } 
+            
+            else 
+            {
+                document.getElementById("check1").style.color = "red";
+            }
+
+            if 
+            (input.value.match(/[0-9]/i)) 
+            {
+                document.getElementById("check2").style.color = "green";
+            }
+            
+            else 
+            {
+                document.getElementById("check2").style.color = "red";
+            }
+
+            if (input.value.match(/[^A-Za-z0-9-' ']/i)) {
+                document.getElementById("check3").style.color = "green";
+            } else {
+                document.getElementById("check3").style.color = "red";
+            }
+
+            if (input.value.match(' ')) {
+                document.getElementById("check4").style.color = "red";
+            } else {
+                document.getElementById("check4").style.color = "green";
+            }
+            if (input.value.match(/[A-Z]/)) {
+                document.getElementById("check5").style.color = "green";
+            } else {
+                document.getElementById("check5").style.color = "red";
+            }
+            if (input.value.match(/[a-z]/)) {
+                document.getElementById("check6").style.color = "green";
+            } else {
+                document.getElementById("check6").style.color = "red";
+            }
+
+            indicator.style.display = "block";
+            indicator.style.display = "flex";
+            
+             if(input.value.length <= 12 && (input.value.match(regExpWeak) ||
+             input.value.match(regExpMedium) || input.value.match(regExpStrong))) {no=1};
+
+             if(input.value.length >= 12 && ((input.value.match(regExpWeak) && input.value.match(regExpMedium)) ||
+             (input.value.match(regExpMedium) && input.value.match(regExpStrong)) ||
+             (input.value.match(regExpWeak) && input.value.match(regExpStrong)))) {no=2};
+
+             if(input.value.length >= 12 && input.value.match(regExpWeak) && input.value.match(regExpMedium) &&
+             input.value.match(regExpStrong)) {no=3};
+
+             if(no==1){
+               weak.classList.add("active");
+               text.style.display = "block";
+               text.textContent = "Your password is too week";
+               text.classList.add("weak");
+             }
+
+             if(no==2){
+               medium.classList.add("active");
+               text.textContent = "Your password is medium";
+               text.classList.add("medium");
+             } else{
+               medium.classList.remove("active");
+               text.classList.remove("medium");
+             }
+             if(no==3){
+               weak.classList.add("active");
+               medium.classList.add("active");
+               strong.classList.add("active");
+               text.textContent = "Your password is strong";
+               text.classList.add("strong");
+             } else{
+               strong.classList.remove("active");
+               text.classList.remove("strong");
+             }
+             showBtn.style.display = "block";
+             showBtn.onclick = function(){
+               if(input.type == "password"){
+                 input.type = "text";
+                 showBtn.textContent = "HIDE";
+                 showBtn.style.color = "#23ad5c";
+               }else{
+                 input.type = "password";
+                 showBtn.textContent = "SHOW";
+                 showBtn.style.color = "#000";
+               }
+             }
+           
+         }
+
+			</script>
+
+		</div>
+	</div>
+</div>
+
+
+@section Scripts 
+{
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

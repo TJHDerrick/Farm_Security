@@ -1,0 +1,101 @@
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\appsettings.json
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Fresh Farm Market_214142Z.staticwebassets.runtime.json
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Fresh Farm Market_214142Z.exe
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Fresh Farm Market_214142Z.deps.json
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Fresh Farm Market_214142Z.runtimeconfig.json
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Fresh Farm Market_214142Z.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Fresh Farm Market_214142Z.pdb
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\Fresh Farm Market_214142Z.csproj.AssemblyReference.cache
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\Fresh Farm Market_214142Z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\Fresh Farm Market_214142Z.AssemblyInfoInputs.cache
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\Fresh Farm Market_214142Z.AssemblyInfo.cs
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\Fresh Farm Market_214142Z.csproj.CoreCompileInputs.cache
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\Fresh Farm Market_214142Z.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\Fresh Farm Market_214142Z.RazorAssemblyInfo.cache
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\Fresh Farm Market_214142Z.RazorAssemblyInfo.cs
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\scopedcss\bundle\Fresh Farm Market_214142Z.styles.css
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\scopedcss\projectbundle\Fresh Farm Market_214142Z.bundle.scp.css
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\Fresh Farm Market_214142Z.csproj.CopyComplete
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\Fresh Farm Market_214142Z.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\refint\Fresh Farm Market_214142Z.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\Fresh Farm Market_214142Z.pdb
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\Fresh Farm Market_214142Z.genruntimeconfig.cache
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\ref\Fresh Farm Market_214142Z.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\MailKit.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\obj\Debug\net6.0\Fresh Farm Market_214142Z.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\AspNetCore.ReCaptcha.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\nl\AspNetCore.ReCaptcha.resources.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Irony.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\SendGrid.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\Derri\Desktop\Security CP\Y2S2\App Sec Assignment\EZYSoft_214142Z\EZYSoft_214142Z\bin\Debug\net6.0\XLParser.dll
